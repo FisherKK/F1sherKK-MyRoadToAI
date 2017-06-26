@@ -1,0 +1,28 @@
+F1sherKK - Deep/Machine Learning Solutions Portfolio 
+
+Regressions:
+	1. Linear Regression 
+		a) raw implementation 
+			- dataset: randomly generated points
+			- language: Python (numpy, matplotlib)
+
+		b) sklearn implementation
+			- dataset: randomly generated points
+			- language: Python (numpy, matplotlib)
+
+Neural Networks:
+	1. Feedforward Neural Network - prediction
+		a) raw implementation 
+			- dataset: Bike Shop sales
+			- language: Python (numpy, matplotlib, pandas)
+
+	2. Feedforward Neural Network - image classification
+
+	3. Feedforward Neural Network - sentiment analysis
+
+
+Other:
+	1. Principal Component Analysis:
+		a) raw implementation [dataset: randomly generated points, language: Python]
+			- dataset: randomly generated points
+			- language: Python (numpy, matplotlib)
