@@ -1,6 +1,6 @@
 ## Machine Learning
 
-##### Regressions:
+#### Regressions:
 
 1. Linear Regression - linear approximation
 
@@ -31,9 +31,9 @@
 	- dataset: randomly generated points
 	- language: Python (numpy, matplotlib, scikit-learn)
 
-### Deep Learning
+## Deep Learning
 
-##### Neural Networks:
+#### Neural Networks:
 
 1. Multilayer Perceptron - classification: images of digits (MNIST dataset)
 
@@ -53,7 +53,7 @@
 	- 2 hidden layers, mini-batch, no regularization
 	- language: Python (numpy, tflearn)
 
-##### Other:
+#### Other:
 
 1. Principal Component Analysis:
 
