@@ -23,7 +23,7 @@
 	- dataset: randomly generated points
 	- language: Python (numpy, matplotlib, scikit-learn)
 
-	c) [raw implementation - serpentine](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/LinearRegression/polynomial/parabola/raw_solution/PolynomialRegression_Exponentation2_Raw.ipynb) (last update 10.06.2017)
+	c) [raw implementation - serpentine](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/LinearRegression/polynomial/serpentine/raw_solution/PolynomialRegression_Exponentation3_Raw.ipynb) (last update 10.06.2017)
 	- dataset: randomly generated points
 	- language: Python (numpy, matplotlib)
 	
