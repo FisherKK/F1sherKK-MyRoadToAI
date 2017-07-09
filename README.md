@@ -30,6 +30,14 @@
     d) [sklearn implementation - serpentine](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/LinearRegression/polynomial/serpentine/sklearn_solution/PolynomialRegression_Exponentation3_Sklearn.ipynb) (last update 10.06.2017)
 	- dataset: randomly generated points
 	- language: Python (numpy, matplotlib, scikit-learn)
+	
+#### Other:
+
+1. Principal Component Analysis:
+
+	a) [raw implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/PrincipalComponenAnalysis/PCA_Raw.ipynb) (last update 01.04.2017)
+	- dataset: randomly generated points
+	- language: Python (numpy, matplotlib)
 
 ## Deep Learning
 
@@ -52,11 +60,3 @@
 	d) [tfLearn implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/NeuralNetworks/MNIST-Dataset/tflearn_solution/MultilayerPerceptron-MNIST-tflearn.ipynb) (last update 21.06.2017)
 	- 2 hidden layers, mini-batch, no regularization
 	- language: Python (numpy, tflearn)
-
-#### Other:
-
-1. Principal Component Analysis:
-
-	a) [raw implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/PrincipalComponenAnalysis/PCA_Raw.ipynb) (last update 01.04.2017)
-	- dataset: randomly generated points
-	- language: Python (numpy, matplotlib)
