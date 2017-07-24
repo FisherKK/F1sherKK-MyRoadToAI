@@ -2,7 +2,7 @@
 
 #### Regressions:
 
-1. Linear Regression
+- Linear Regression
 
 	a) [raw implementation - line](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/LinearRegression/LineFit/RandomlyGenerated-Dataset/raw_solution/LinearRegression_Raw.ipynb) (created 18.04.2017)
 	- dataset: randomly generated points
@@ -13,7 +13,7 @@
 	- language: Python (numpy, matplotlib, scikit-learn)
 
 
-2. Polynomial Regression
+- Polynomial Regression
 
 	a) [raw implementation - parabola](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/PolynomialRegression/ParabolaFit/RandomlyGenerated-Dataset/raw_solution/PolynomialRegression_Exponentation2_Raw.ipynb) (created 08.06.2017)
 	- dataset: randomly generated points
@@ -27,23 +27,24 @@
 	- dataset: randomly generated points
 	- language: Python (numpy, matplotlib)
 
-  d) [sklearn implementation - serpentine](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/PolynomialRegression/SerpentineFit/RandomlyGenerated-Dataset/sklearn_solution/PolynomialRegression_Exponentation3_Sklearn.ipynb) (created 10.06.2017)
+    d) [sklearn implementation - serpentine](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/PolynomialRegression/SerpentineFit/RandomlyGenerated-Dataset/sklearn_solution/PolynomialRegression_Exponentation3_Sklearn.ipynb) (created 10.06.2017)
 	- dataset: randomly generated points
 	- language: Python (numpy, matplotlib, scikit-learn)
 
-3. KNN (K Nearest Neighbors):
 
-	a)[raw implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/Iris-Dataset/raw_solution/KNN_Iris_Raw.ipynb) (created 21.07.2017)
+- KNN (K Nearest Neighbors):
+
+	a) [raw implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/KNN/Iris-Dataset/raw_solution/KNN_Iris_Raw.ipynb) (created 21.07.2017)
 	- dataset: iris
 	- language Python (numpy, matplotlib)
 
-	b)[sklearn implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/Iris-Dataset/sklearn_solution/KNN_Iris_Sklearn.ipynb) (created 22.07.2017)
+	b) [sklearn implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/KNN/Iris-Dataset/sklearn_solution/KNN_Iris_Sklearn.ipynb) (created 22.07.2017)
 	- dataset: iris
 	- language Python (numpy, matplotlib, scikit-learn)
 
 #### Other:
 
-1. Principal Component Analysis:
+- Principal Component Analysis:
 
 	a) [raw implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/PrincipalComponenAnalysis/PCA_Raw.ipynb) (created 01.04.2017)
 	- dataset: randomly generated points
@@ -53,7 +54,7 @@
 
 #### Neural Networks:
 
-1. Multilayer Perceptron - classification: images of digits (MNIST dataset)
+- Multilayer Perceptron - classification: images of digits (MNIST dataset)
 
 	a) [raw implementation](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/NN-MultilayerPerceptron/Classification/MNIST-Dataset/raw_solution/MultilayerPerceptron-MNIST-Raw.ipynb) (created 19.06.2017)
 	- 2 hidden layers, mini-batch, no regularization
