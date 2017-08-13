@@ -2,8 +2,8 @@
 
 | Algorithm  | Description | Implementation | Dataset | Creation Date  | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linear Regression | - | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/LinearRegression/RandomlyGenerated-Dataset/raw_solution/LinearRegression_Raw.ipynb) | Generated Numbers | 18.04.2017 | 18.04.2017 |
-| | - | [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/LinearRegression/RandomlyGenerated-Dataset/sklearn_solution/LinearRegression_Sklearn.ipynb) | Generated Numbers | 18.04.2017 | 18.04.2017 |
+| Linear Regression | line | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/LinearRegression/RandomlyGenerated-Dataset/raw_solution/LinearRegression_Raw.ipynb) | Generated Numbers | 18.04.2017 | 18.04.2017 |
+| | line | [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/LinearRegression/RandomlyGenerated-Dataset/sklearn_solution/LinearRegression_Sklearn.ipynb) | Generated Numbers | 18.04.2017 | 18.04.2017 |
 | Polynomial Regression | parabola | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/ParabolaFit/RandomlyGenerated-Dataset/raw_solution/PolynomialRegression_Exponentation2_Raw.ipynb) | Generated Numbers | 08.06.2017 | 08.06.2017|
 | | parabola| [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/ParabolaFit/RandomlyGenerated-Dataset/sklearn_solution/PolynomialRegression_Exponentation2_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 10.06.2017 |
 | | serpentine | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/SerpentineFit/RandomlyGenerated-Dataset/raw_solution/PolynomialRegression_Exponentation3_Raw.ipynb) | Generated Numbers | 10.06.2017 | 10.06.2017 |
@@ -22,7 +22,7 @@
 | | 2-layers, mini-batch, dropout-regularization| [Python (numpy, matplotlib, Tensorflow + Keras)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tensorflow-keras_solution/MultilayerPerceptron-MNIST-TensorflowWithKerasWrapper.ipynb) | MNIST | 08.07.2017 | 18.07.2017 |
 | | 2-layers, mini-batch, no-regularization| [Python (numpy, tflearn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tflearn_solution/MultilayerPerceptron-MNIST-tflearn.ipynb) | MNIST | 21.06.2017 | 21.06.2017 |
 | | 2-layers, mini-batch, no-regularization| [Python (numpy, Keras)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-| MLP-Regression | 1-layer, mini-batch, no-regularization| [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
+| MLP-Regression | 1-layer, mini-batch, no-regularization| [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Regression/Bike-Sharing-Dataset/raw_solution/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
 	
 -----------
 
