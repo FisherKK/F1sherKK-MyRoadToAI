@@ -11,7 +11,6 @@
 | KNN | Manhatan, Euclidean Distances | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/KNN/Iris-Dataset/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 21.07.2017 |
 | | Manhatan, Euclidean Distances| [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/KNN/Iris-Dataset/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 22.07.2017 |
 
------------
 
 ## Deep Learning
 
@@ -24,7 +23,6 @@
 | | 2-layers, mini-batch, no-regularization| [Python (numpy, Keras)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
 | MLP-Regression | 1-layer, mini-batch, no-regularization| [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Regression/Bike-Sharing-Dataset/raw_solution/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
 	
------------
 
 ## Dimensionality Reduction
 
