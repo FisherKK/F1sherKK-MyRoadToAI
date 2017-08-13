@@ -28,6 +28,6 @@
 
 | Algorithm  | Description | Implementation | Dataset | Creation Date  | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| PCA | - | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/DimensionalityReduction/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 01.04.2017 |
-| Autoencoder | - | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/DimensionalityReduction/Autoencoder/ImageEncription/MNIST-Dataset/tensorflow_solution/MLP-Encryption-Autoencoder.ipynb) | MNIST | 30.07.2017 | 30.07.2017 |
+| PCA | - | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DimensionalityReduction/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 01.04.2017 |
+| Autoencoder | - | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DimensionalityReduction/Autoencoder/ImageEncription/MNIST-Dataset/tensorflow_solution/MLP-Encryption-Autoencoder.ipynb) | MNIST | 30.07.2017 | 30.07.2017 |
 
