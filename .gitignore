@@ -92,8 +92,8 @@ venv/
 ENV/
 
 # ignore .gz files
-.gz
-.tar
+*.gz
+*.tar
 
 # Spyder project settings
 .spyderproject
