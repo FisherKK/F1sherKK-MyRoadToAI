@@ -1,3 +1,43 @@
+# Kamil Krzyk - My Road to AI
+
+## About
+
+This is a repository that I have created to track my progress in AI/Data Science related topics in order to organise my knowledge and goals. Purpose of doing this is self-motivation, open source/study material for others, portfolio and TODO list.
+
+## Table of contents
+- [Kamil Krzyk - My Road to AI](#kamil-krzyk---my-road-to-ai)
+- [About](#about)
+- [Table of Contents](#table-of-contents)
+- [Algorithm Implementations](#algorithm-implementations)
+	+ [Divide & Conquer](#divide--conquer)
+- [AI Implementations](#ai-implementations)
+	+ [Machine Learning](#machine-learning)
+	+ [Deep Learning](#deep-learning)
+	+ [Tutorial](#tutorials)
+	+ [Paper](#paper)
+- [Books](#books)
+- [Courses & Certificates](#courses--certificates)
+- [Sources]($sources)
+- [Contact](#contact)
+
+## Algorithm Implementations
+### Divide & Conquer
+	- Gauss Multiplication
+	- Karatsuba Multiplication
+	- Inversion Calculation
+	- Bubble Sort
+	- Quick Sort
+
+## AI Implementations
+
+## Books
+
+## Courses
+
+## Sources
+
+## Contact
+
 ## Machine Learning
 
 | Algorithm  | Description | Implementation | Dataset | Creation Date  | Last Update |
@@ -22,7 +62,7 @@
 | | 2-layers, mini-batch, no-regularization| [Python (numpy, tflearn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tflearn_solution/MultilayerPerceptron-MNIST-tflearn.ipynb) | MNIST | 21.06.2017 | 21.06.2017 |
 | | 2-layers, mini-batch, no-regularization| [Python (numpy, Keras)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
 | MLP-Regression | 1-layer, mini-batch, no-regularization| [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Regression/Bike-Sharing-Dataset/raw_solution/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
-	
+
 
 ## Dimensionality Reduction
 
@@ -30,4 +70,3 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | PCA | - | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DimensionalityReduction/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 01.04.2017 |
 | Autoencoder | MLP-based| [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DimensionalityReduction/Autoencoder/ImageEncription/MNIST-Dataset/tensorflow_solution/MLP-Encryption-Autoencoder.ipynb) | MNIST | 30.07.2017 | 30.07.2017 |
-
