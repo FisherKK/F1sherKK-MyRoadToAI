@@ -22,40 +22,98 @@ This is a repository that I have created to track my progress in AI/Data Science
 
 ## Algorithm Implementations
 ### Divide & Conquer
-- Gauss Multiplication
-- Karatsuba Multiplication
-- Inversion Calculation
-- Bubble Sort
+- [Gauss's Integer Multiplication](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Gauss's%20Integer%20Multiplication.ipynb)
+- [Karatsuba Multiplication](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Karatsuba%20Multiplication.ipynb)
+- [Inversion Counting](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Counting%20Inversions.ipynb)
+- [Merge Sort](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Merge%20Sorting.ipynb)
+- Quick Sort
 
 ## AI Implementations
 ### Machine Learning
-
-| Algorithm  | Description | Implementation | Dataset | Creation Date  | Last Update |
+| Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linear Regression | line | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/LinearRegression/RandomlyGenerated-Dataset/raw_solution/LinearRegression_Raw.ipynb) | Generated Numbers | 18.04.2017 | 18.04.2017 |
-| | line | [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/LinearRegression/RandomlyGenerated-Dataset/sklearn_solution/LinearRegression_Sklearn.ipynb) | Generated Numbers | 18.04.2017 | 18.04.2017 |
-| Polynomial Regression | parabola | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/ParabolaFit/RandomlyGenerated-Dataset/raw_solution/PolynomialRegression_Exponentation2_Raw.ipynb) | Generated Numbers | 08.06.2017 | 08.06.2017|
-| | parabola| [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/ParabolaFit/RandomlyGenerated-Dataset/sklearn_solution/PolynomialRegression_Exponentation2_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 10.06.2017 |
-| | serpentine | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/SerpentineFit/RandomlyGenerated-Dataset/raw_solution/PolynomialRegression_Exponentation3_Raw.ipynb) | Generated Numbers | 10.06.2017 | 10.06.2017 |
-| | serpentine| [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/PolynomialRegression/SerpentineFit/RandomlyGenerated-Dataset/sklearn_solution/PolynomialRegression_Exponentation3_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 10.06.2017 |
-| KNN | Manhattan, Euclidean Distances | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/KNN/Iris-Dataset/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 14.08.2017 |
-| | Euclidean Distances| [Python (numpy, matplotlib, scikit-learn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/MachineLearning/KNN/Iris-Dataset/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 22.07.2017 |
-| PCA | - | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DimensionalityReduction/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 01.04.2017 |
-| Autoencoder | MLP-based| [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DimensionalityReduction/Autoencoder/ImageEncription/MNIST-Dataset/tensorflow_solution/MLP-Encryption-Autoencoder.ipynb) | MNIST | 30.07.2017 | 30.07.2017 |
+| Linear Regression | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/raw_solution/LinearRegression_Raw.ipynb) | Generated Numbers | 18.04.2017 | 15.09.2017 |
+| | - | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/sklearn_solution/LinearRegression_Sklearn.ipynb) | Generated Numbers | 18.04.2017 | 15.09.2017 |
+| | - | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/tensorflow_solution/LinearRegression_Tensorflow.ipynb) | Generated Numbers | 23.09.2017 | 23.09.2017 |
+| Ridge Regression | Compared result with Linear Regression | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/RidgeRegression/raw_solution/RidgeRegression_Raw.ipynb) | Generated Numbers | 23.09.2017 | 23.09.2017 |
+| Polynomial Regression | Approximating Polynomial of degree 2 | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/raw_solution/PolynomialRegression_Degree2_Raw.ipynb) | Generated Numbers | 08.06.2017 | 15.09.2017 |
+| | Approximating Polynomial of degree 2 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree2_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
+| | Approximating Polynomial of degree 3 | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/raw_solution/PolynomialRegression_Degree3_Raw.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
+| | Approximating Polynomial of degree 3 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree3_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
+| KNN | Manhattan, Euclidean Similarity | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 24.09.2017 |
+| | Euclidean Similarity| [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
+| PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
 
 ### Deep Learning
-| Algorithm  | Description | Implementation | Dataset | Creation Date  | Last Update |
+
+#### Multilayer Perceptron
+| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLP-Classification | 2-layers, mini-batch, no-regularization| [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/raw_solution/MultilayerPerceptron-MNIST-Raw.ipynb) | MNIST | 19.06.2017 | 14.08.2017 |
-| | 2-layers, mini-batch, dropout-regularization| [Python (numpy, matplotlib, Tensorflow)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tensorflow_solution/MultilayerPerceptron-MNIST-Tensorflow.ipynb) | MNIST | 29.06.2017 | 18.07.2017 |
-| | 2-layers, mini-batch, dropout-regularization| [Python (numpy, matplotlib, Tensorflow + Keras)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tensorflow-keras_solution/MultilayerPerceptron-MNIST-TensorflowWithKerasWrapper.ipynb) | MNIST | 08.07.2017 | 18.07.2017 |
-| | 2-layers, mini-batch, no-regularization| [Python (numpy, tflearn)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tflearn_solution/MultilayerPerceptron-MNIST-tflearn.ipynb) | MNIST | 21.06.2017 | 21.06.2017 |
-| | 2-layers, mini-batch, no-regularization| [Python (numpy, Keras)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-| MLP-Regression | 1-layer, mini-batch, no-regularization| [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MachineLearning/blob/master/DeepLearning/MultilayerPerceptron/Regression/Bike-Sharing-Dataset/raw_solution/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
+| Digit Classification | 2-layers, mini-batch, no-regularization| [Python (raw)]() | MNIST | 19.06.2017 | 14.08.2017 |
+| Digit Classification | 2-layers, mini-batch, dropout-regularization| [Python (Tensorflow)]() | MNIST | 29.06.2017 | 18.07.2017 |
+| Digit Classification | 2-layers, mini-batch, dropout-regularization| [Python (Tensorflow + Keras)]() | MNIST | 08.07.2017 | 18.07.2017 |
+| Digit Classification | 2-layers, mini-batch, no-regularization| [Python (tflearn)]() | MNIST | 21.06.2017 | 21.06.2017 |
+| Digit Classification | 2-layers, mini-batch, no-regularization| [Python (Keras)]() | MNIST | 18.07.2017 | 18.07.2017 |
+| MLP Prediction of Bike Shop Clients Number | - | [Python (numpy, matplotlib)]() | Bike-Sharing | 13.08.2017 | 13.08.2017 |
+| MLP Encrypting data with Autoencoder | - | [Python (Tensorflow)]() | MNIST | | |
+
+#### Convolutional Neural Net
+| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Digit Classification | - | [Python (Tensorflow)]() | MNIST| 30.07.2017 | 30.07.2017 |
+| 10 Classes Color Images Classification | tf.nn module, dropout regularization | [Python (Tensorflow)]() | CIFAR-10 | 30.07.2017 | 30.07.2017 |
+| 10 Classes Color Images Classification | tf.layer module, dropout regularization | [Python (Tensorflow)]() | CIFAR-10 | 30.07.2017 | 30.07.2017 |
+| 10 Classes Color Images Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)]() | CIFAR-10 | 30.07.2017 | 30.07.2017 |
+
+#### Recurrent Neural Network
+| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)]() | Small part of French-English corpus | 30.07.2017 | 30.07.2017 |
+| "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)]() | "The Simpsons" script | 30.07.2017 | 30.07.2017 |
+
+#### Generative Adversarial Neural Network
+| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Generating Human Face Miniatures | DCGAN | [Python (Tensorflow)]() | CelebA | 30.07.2017 | 30.07.2017 |
 
 ### Tutorials
+Teaching others is best way of teaching yourself. I will try to create tutorials with various implementations of ML&DL models and more. Idea of my tutorials is to build models with small steps, with many comments, ideally including math and links to sources that I use to create them.
+
+| Tutorial | Creation Date  | Last Update |
+| :---: | :---: | :---: |
+| [Implementing KNN with comments and basic math](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/Tutorial/KNN_Raw_Tutorial.ipynb) | 21.07.2017 | 21.07.2017 |
+| [Implementing PCA with comments and basic math](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/Tutorial/PCA_Raw_Tutorial.ipynb) | 01.04.2017 | 01.04.2017 |
 
 ### Based on Research Papers
+In this section I will do my best to provide implementations of models based on research papers. My target framework will be Keras or/and PyTorch.
+
+#### Convolutional Neural Network
+| Paper | Implementation | Dataset | Creation Date  | Last Update |
+| :---: | :---: | :---: | :---: | :---: |
+| Deep Residual Learning for Image Recognition - Microsoft-ResNet 2015 | - | - | - | - |
+| Spatial Transformation Network STN 2016 | - | - | - | - |
+| You Only Look Once YOLO | - | - | - | - |
+| Super resolution IEEE | - | - | - | - |
+| Artistic Style Transfer Gatys | - | - | - | - |
+| Deep Photo Style Transfer | - | - | - | - |
+| Neural Doodle | - | - | - | - |
+| Image Colorization UC Berkeley | - | - | - | - |
+
+#### Recurrent Neural Network
+| Paper  | Implementation | Dataset | Creation Date  | Last Update |
+| :---: | :---: | :---: | :---: | :---: |
+| Speech Recognition: Deep Speech 2 2015 | - | - | - | - |
+| Generating sequences: LSTM 2013 | - | - | - | - |
+| Sequence to sequence with attention: Text Summarizer | - | - | - | - |
+| Neural Machine Translation: Google 2016 | - | - | - | - |
+| Conversational Model: Google 2015 | - | - | - | - |
+| Skip Thoughts sentence to vector | - | - | - | - |
+
+#### Generative Adversarial Neural Network
+| Paper  | Implementation | Dataset | Creation Date  | Last Update |
+| :---: | :---: | :---: | :---: | :---: |
+| Deep Convolutional GAN: DCGAN 2015 | - | - | - | - |
+| Text to image synthesis 2016 | - | - | - | - |
 
 ## Books
 
