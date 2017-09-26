@@ -123,7 +123,7 @@ In this section I will do my best to provide implementations of models based on 
 | Paper | Year | Implementation | Dataset | Creation Date  | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396v2.pdf) | 2016 | - | - | - | - |
-| [Deep Convolutional GAN: DCGAN 2015](https://arxiv.org/pdf/1511.06434.pdf) | 2015 | - | - | - | - |
+| [Deep Convolutional GAN: DCGAN](https://arxiv.org/pdf/1511.06434.pdf) | 2015 | - | - | - | - |
 
 ## Books
 Usually I prefer online sources for studying, but I believe in the power of books and try to fit them into my daily agenda.
