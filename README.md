@@ -29,6 +29,8 @@ This is a repository that I have created to track my progress in AI/Data Science
 - Quick Sort
 
 ## AI Implementations
+In this section I want to show off my knowledge about various AI related algorithms, frameworks, programming languages, libraries and more. Priority is to show how the algorithm works - not to solve complex and ambitious problems.
+
 ### Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -88,34 +90,40 @@ Teaching others is best way of teaching yourself. I will try to create tutorials
 In this section I will do my best to provide implementations of models based on research papers. My target framework will be Keras or/and PyTorch.
 
 #### Convolutional Neural Network
-| Paper | Implementation | Dataset | Creation Date  | Last Update |
-| :---: | :---: | :---: | :---: | :---: |
-| Deep Residual Learning for Image Recognition - Microsoft-ResNet 2015 | - | - | - | - |
-| Spatial Transformation Network STN 2016 | - | - | - | - |
-| You Only Look Once YOLO | - | - | - | - |
-| Super resolution IEEE | - | - | - | - |
-| Artistic Style Transfer Gatys | - | - | - | - |
-| Deep Photo Style Transfer | - | - | - | - |
-| Neural Doodle | - | - | - | - |
-| Image Colorization UC Berkeley | - | - | - | - |
+| Paper | Year | Implementation | Dataset | Creation Date  | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [Deep Photo Style Transfer](https://arxiv.org/pdf/1703.07511v1.pdf) | 2017 | - | - | - | - |
+| [Spatial Transformer Networks - STN](https://arxiv.org/pdf/1506.02025.pdf) | 2016 | - | - | - | - |
+| [You Only Look Once: Unified, Real-Time Object Detection - YOLO](https://arxiv.org/pdf/1506.02640.pdf) | 2016 | - | - | - | - |
+| [Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork](https://arxiv.org/pdf/1603.01768.pdf) | 2016 | - | - | - | - |
+| [Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf) | 2016 | - | - | - | - |
+| [Deep Residual Learning for Image Recognition - Microsoft-ResNet](https://arxiv.org/pdf/1512.03385.pdf) | 2015 | - | - | - | - |
+| [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092v3.pdf) | 2015 | - | - | - | - |
+| [A Neural Algorithm of Artistic Style - GATYS](https://arxiv.org/pdf/1508.06576.pdf) | 2015 | - | - | - | - |
 
 #### Recurrent Neural Network
-| Paper  | Implementation | Dataset | Creation Date  | Last Update |
-| :---: | :---: | :---: | :---: | :---: |
-| Speech Recognition: Deep Speech 2 2015 | - | - | - | - |
-| Generating sequences: LSTM 2013 | - | - | - | - |
-| Sequence to sequence with attention: Text Summarizer | - | - | - | - |
-| Neural Machine Translation: Google 2016 | - | - | - | - |
-| Conversational Model: Google 2015 | - | - | - | - |
-| Skip Thoughts sentence to vector | - | - | - | - |
+| Paper | Year | Implementation | Dataset | Creation Date  | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf) | 2016 |  - | - | - | - |
+| [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf) | 2015 | - | - | - | - |
+| [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf) | 2015 | - | - | - | - |
+| [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf) | 2015 | - | - | - | - |
+| [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) | 2014 | - | - | - | - |
+| [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf) | 2013 | - | - | - | - |
 
 #### Generative Adversarial Neural Network
-| Paper  | Implementation | Dataset | Creation Date  | Last Update |
-| :---: | :---: | :---: | :---: | :---: |
-| Deep Convolutional GAN: DCGAN 2015 | - | - | - | - |
-| Text to image synthesis 2016 | - | - | - | - |
+| Paper | Year | Implementation | Dataset | Creation Date  | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396v2.pdf) | 2016 | - | - | - | - |
+| [Deep Convolutional GAN: DCGAN 2015](https://arxiv.org/pdf/1511.06434.pdf) | 2015 | - | - | - | - |
 
 ## Books
+Usually I prefer online sources for studying, but I believe in the power of books and try to fit them into my daily agenda.
+### Programming related:
+| Book | Author | Started | Finished |
+| :---: | :---: | :---: | :---: |
+| [Dive Into Python 3](http://www.diveintopython3.net/) | Mark Pilgrim | Aug 2017 | Sep 2017 |
+| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Al Sweigart | Sept 2017 | - |
 
 ## Courses & Certificates
 When I was younger I played a lot of computer games.  I still tend to play today a little as a form of relax and to spend time with friends that live far from me. One thing that I have very enjoyed about gaming was gathering trophies. You made an effort to complete list of challenges or get a great score and then looked at list of your achievements with satisfaction. My current self have inherited this habit and as I study on daily basis I like to gather proves that I have done something - to make it more like a game where each topic is a boss that you have to clear on hard mode. Of course what's in your head is most important but if it helps to motivate you, then why not?
