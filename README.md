@@ -41,7 +41,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 | | Approximating Polynomial of degree 3 | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/raw_solution/PolynomialRegression_Degree3_Raw.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
 | | Approximating Polynomial of degree 3 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree3_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
 | KNN | Manhattan, Euclidean Similarity | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 24.09.2017 |
-| | Euclidean Similarity| [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
+| | Euclidean Similarity | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
 
 ### Deep Learning
@@ -49,32 +49,32 @@ This is a repository that I have created to track my progress in AI/Data Science
 #### Multilayer Perceptron
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Digit Classification | 2-layers, mini-batch, no-regularization| [Python (raw)]() | MNIST | 19.06.2017 | 14.08.2017 |
-| Digit Classification | 2-layers, mini-batch, dropout-regularization| [Python (Tensorflow)]() | MNIST | 29.06.2017 | 18.07.2017 |
-| Digit Classification | 2-layers, mini-batch, dropout-regularization| [Python (Tensorflow + Keras)]() | MNIST | 08.07.2017 | 18.07.2017 |
-| Digit Classification | 2-layers, mini-batch, no-regularization| [Python (tflearn)]() | MNIST | 21.06.2017 | 21.06.2017 |
-| Digit Classification | 2-layers, mini-batch, no-regularization| [Python (Keras)]() | MNIST | 18.07.2017 | 18.07.2017 |
-| MLP Prediction of Bike Shop Clients Number | - | [Python (numpy, matplotlib)]() | Bike-Sharing | 13.08.2017 | 13.08.2017 |
-| MLP Encrypting data with Autoencoder | - | [Python (Tensorflow)]() | MNIST | | |
+| Digit Classification | 2-layers, mini-batch | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/raw_solution/MultilayerPerceptron-MNIST-Raw.ipynb) | MNIST | 19.06.2017 | 14.08.2017 |
+| Digit Classification | 2-layers, mini-batch, dropout-regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tensorflow_solution/MultilayerPerceptron-MNIST-Tensorflow.ipynb) | MNIST | 29.06.2017 | 18.07.2017 |
+| Digit Classification | 2-layers, mini-batch | [Python (Tensorflow + Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tensorflow-keras_solution/MultilayerPerceptron-MNIST-TensorflowWithKerasWrapper.ipynb) | MNIST | 08.07.2017 | 18.07.2017 |
+| Digit Classification | 2-layers, mini-batch | [Python (tflearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tflearn_solution/MultilayerPerceptron-MNIST-tflearn.ipynb) | MNIST | 21.06.2017 | 21.06.2017 |
+| Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
+| MLP Prediction of Bike Shop Clients Number | 1-layer, mini-batch | [Python (numpy, matplotlib)]() | Bike-Sharing | 13.08.2017 | 13.08.2017 |
+| MLP Encrypting data with Autoencoder | 1-layer Encoder, 1-layer Decoder, mini-batch | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Autoencoder/ImageEncription/MNIST-Dataset/tensorflow_solution/MLP-Encryption-Autoencoder.ipynb) | MNIST | 13.07.2017 | 13.07.2017 |
 
 #### Convolutional Neural Net
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Digit Classification | - | [Python (Tensorflow)]() | MNIST| 30.07.2017 | 30.07.2017 |
-| 10 Classes Color Images Classification | tf.nn module, dropout regularization | [Python (Tensorflow)]() | CIFAR-10 | 30.07.2017 | 30.07.2017 |
-| 10 Classes Color Images Classification | tf.layer module, dropout regularization | [Python (Tensorflow)]() | CIFAR-10 | 30.07.2017 | 30.07.2017 |
-| 10 Classes Color Images Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)]() | CIFAR-10 | 30.07.2017 | 30.07.2017 |
+| Digit Classification | - | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/ConvNet/Classification/MNIST-Dataset/tensorflow_solution/ConvNet-MNIST-Tensorflow-BN-tflayer.ipynb) | MNIST| 30.07.2017 | 30.07.2017 |
+| 10 Classes Color Images Classification | tf.nn module, dropout regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/ConvNet/Classification/CIFAR-10-Dataset/tensorflow_solution/ConvNet-CIFAR10-Tensorflow-tfnn.ipynb) | CIFAR-10 | 30.07.2017 | 30.07.2017 |
+| 10 Classes Color Images Classification | tf.layer module, dropout regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/ConvNet/Classification/CIFAR-10-Dataset/tensorflow_solution/ConvNet-CIFAR10-Tensorflow-tflayer.ipynb) | CIFAR-10 | 30.07.2017 | 30.07.2017 |
+| 10 Classes Color Images Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/ConvNet/Classification/CIFAR-10-Dataset/tensorflow_solution/ConvNet-CIFAR10-Tensorflow-BN-tflayer.ipynb) | CIFAR-10 | 30.07.2017 | 30.07.2017 |
 
 #### Recurrent Neural Network
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)]() | Small part of French-English corpus | 30.07.2017 | 30.07.2017 |
-| "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)]() | "The Simpsons" script | 30.07.2017 | 30.07.2017 |
+| Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/RNN/3ndProject-GeneratingScriptTV/dlnd_tv_script_generation.ipynb) | Small part of French-English corpus | 05.05.2017 | 24.05.2017 |
+| "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/RNN/4thProject-LanguageTranslator/dlnd_language_translation.ipynb) | "The Simpsons" script | 06.06.2017 | 14.07.2017 |
 
 #### Generative Adversarial Neural Network
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Generating Human Face Miniatures | DCGAN | [Python (Tensorflow)]() | CelebA | 30.07.2017 | 30.07.2017 |
+| Generating Human Face Miniatures | DCGAN | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/GAN/ImageGeneration/CELEB-Dataset/DC-GAN-FaceGeneration-Tensorflow.ipynb) | CelebA | 11.09.2017 | 13.09.2017 |
 
 ### Tutorials
 Teaching others is best way of teaching yourself. I will try to create tutorials with various implementations of ML&DL models and more. Idea of my tutorials is to build models with small steps, with many comments, ideally including math and links to sources that I use to create them.
