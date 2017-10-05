@@ -26,7 +26,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 - [Karatsuba Multiplication](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Karatsuba%20Multiplication.ipynb)
 - [Inversion Counting](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Counting%20Inversions.ipynb)
 - [Merge Sort](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/Merge%20Sorting.ipynb)
-- Quick Sort
+- [Quick Sort](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Algorithms/QuickSort.ipynb)
 
 ## AI Implementations
 In this section I want to show off my knowledge about various AI related algorithms, frameworks, programming languages, libraries and more. Priority is to show how the algorithm works - not to solve complex and ambitious problems.
@@ -45,12 +45,12 @@ In this section I want to show off my knowledge about various AI related algorit
 | KNN | Manhattan, Euclidean Similarity | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 24.09.2017 |
 | | Euclidean Similarity | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
+| K-Means Clusters | 3-dimensional data | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/K-Means/raw_solution/K-Means_VideoGames_Raw.ipynb) | Video Game Sales from Kaggle | 01.10.2017 | 05.10.2017 |
 | Lasso Regression | - | - | - | - | - |
 | SVM | - | - | - | - | - |
 | Decision Tree | - | - | - | - | - |
 | Random Forest | - | - | - | - | - |
 | Lasso Regression | - | - | - | - | - |
-| K-Means Clusters | - | - | - | - | - |
 | Naive Bayes | - | - | - | - | - |
 
 ### Deep Learning
@@ -136,11 +136,14 @@ Usually I prefer online sources for studying, but I believe in the power of book
 ## Courses & Certificates
 When I was younger I played a lot of computer games.  I still tend to play today a little as a form of relax and to spend time with friends that live far from me. One thing that I have very enjoyed about gaming was gathering trophies. You made an effort to complete list of challenges or get a great score and then looked at list of your achievements with satisfaction. My current self have inherited this habit and as I study on daily basis I like to gather proves that I have done something - to make it more like a game where each topic is a boss that you have to clear on hard mode. Of course what's in your head is most important but if it helps to motivate you, then why not?
 
-- Programming related:
+- Programming languages:
 	+ [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/N5Y4ME8737YL?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
  	+ [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/H7G3GHE2WA4D?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
   + [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/XU7RL8F57XZV?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
   + [Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/JZCL9TVJEMAX?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
+
+- Algorithms:
+	+ [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/PGA7EZJAJD6P) (Sep 2017) (Coursera - University of Stanford)
 
 - AI related:
 	+ [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/HF3R7P7JNS5S?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Nov 2016 - Feb 2017) (Coursera - Stanford - Andrew Ng)
@@ -153,6 +156,8 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ https://www.coursera.org/learn/machine-learning
 	+ https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
 	+ https://www.coursera.org/specializations/deep-learning
+	+ https://www.coursera.org/specializations/algorithms (part 1/4)
+	+ https://www.coursera.org/learn/python (part 4/5)
 
 - Online Lectures and YouTube Channels
 	+ [CS231n (Winter 2016 with Andrej Karpathy)](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -160,6 +165,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ [Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 	+ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 	+ [Learn Tensorflow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+	+ [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 - Blogs
 	+ http://kldavenport.com/
