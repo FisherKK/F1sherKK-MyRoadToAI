@@ -50,7 +50,6 @@ In this section I want to show off my knowledge about various AI related algorit
 | SVM | - | - | - | - | - |
 | Decision Tree | - | - | - | - | - |
 | Random Forest | - | - | - | - | - |
-| Lasso Regression | - | - | - | - | - |
 | Naive Bayes | - | - | - | - | - |
 
 ### Deep Learning
