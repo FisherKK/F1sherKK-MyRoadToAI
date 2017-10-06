@@ -77,7 +77,7 @@ In this section I want to show off my knowledge about various AI related algorit
 #### Recurrent Neural Network
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/RNN/3ndProject-GeneratingScriptTV/dlnd_tv_script_generation.ipynb) | Small part of French-English corpus | 05.05.2017 | 24.05.2017 |
+| Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/RNN/4thProject-LanguageTranslator/dlnd_language_translation.ipynb) | Small part of French-English corpus | 05.05.2017 | 24.05.2017 |
 | "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/RNN/4thProject-LanguageTranslator/dlnd_language_translation.ipynb) | "The Simpsons" script | 06.06.2017 | 14.07.2017 |
 
 #### Generative Adversarial Neural Network
