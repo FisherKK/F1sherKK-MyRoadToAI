@@ -165,6 +165,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 	+ [Learn Tensorflow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 	+ [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+	+ [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 - Blogs
 	+ http://kldavenport.com/
@@ -183,7 +184,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ https://github.com/terryum/awesome-deep-learning-papers
 	+ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 	+ https://github.com/fchollet/deep-learning-with-python-notebooks
-	+ https://github.com/paulusd/machine-learning-for-software-engineers
+	+ https://github.com/ZuzooVn/machine-learning-for-software-engineers
 	+ https://github.com/eriklindernoren/ML-From-Scratch
 	+ https://github.com/junyanz/CycleGAN
 	+ https://github.com/llSourcell
