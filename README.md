@@ -8,7 +8,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 - [Kamil Krzyk - My Road to AI](#kamil-krzyk---my-road-to-ai)
 - [About](#about)
 - [Table of Contents](#table-of-contents)
-- [AI Related Presentations][#ai-related-presentations]
+- [AI Related Presentations](#ai-related-presentations)
 - [AI Implementations](#ai-implementations)
 	+ [Machine Learning](#machine-learning)
 	+ [Deep Learning](#deep-learning)
