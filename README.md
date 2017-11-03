@@ -154,7 +154,7 @@ When I was younger I played a lot of computer games.  I still tend to play today
 - AI related:
   + [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/HF3R7P7JNS5S?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Nov 2016 - Feb 2017) (Coursera - Stanford - Andrew Ng)
   + [Deep Learning Nanodegree](https://drive.google.com/file/d/0B8g_YGcjHiJBR25xRHllY1BJNXc/view?lipi=urn:li:page:d_flagship3_profile_view_base;Wd/g8tA6QaSkzOZDrro4%2BA%3D%3D) (Mar 2017 - Aug 2017) (Udacity - Siraj Raval, Mat Leonard, Brok Bucholtz + guest lessions by: Ian Goodfellow, Andrew Trask)
-  + [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/L937Q3QSASJH) (Oct 2017) (Coursera - deeplearning.ai - Andrew Ng)
+  + [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/ZQ3JAPWGB3PC) (Oct 2017) (Coursera - deeplearning.ai - Andrew Ng)
 
 ## Sources
 There is a list of sources that I have used (and found helpful in some way) or keep using in order to produce my repo content.
