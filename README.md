@@ -45,11 +45,11 @@ In this section I want to show off my knowledge about various AI related algorit
 | | Euclidean Similarity | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
 | K-Means Clusters | 3-dimensional data | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/K-Means/raw_solution/K-Means_VideoGames_Raw.ipynb) | Video Game Sales from Kaggle | 01.10.2017 | 05.10.2017 |
+| Naive Bayes | Gaussian Distribution | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/NaiveBayes/raw_solution/NaiveBayes_PimaIndiansDiabetes_raw.ipynb) | Pima Indian Diabetes | 02.11.2017 | 03.11.2017 |
 | Lasso Regression | - | - | - | - | - |
 | SVM | - | - | - | - | - |
 | Decision Tree | - | - | - | - | - |
 | Random Forest | - | - | - | - | - |
-| Naive Bayes | - | - | - | - | - |
 
 ### Deep Learning
 
@@ -154,6 +154,7 @@ When I was younger I played a lot of computer games.  I still tend to play today
 - AI related:
 	+ [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/HF3R7P7JNS5S?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Nov 2016 - Feb 2017) (Coursera - Stanford - Andrew Ng)
   + [Deep Learning Nanodegree](https://drive.google.com/file/d/0B8g_YGcjHiJBR25xRHllY1BJNXc/view?lipi=urn:li:page:d_flagship3_profile_view_base;Wd/g8tA6QaSkzOZDrro4%2BA%3D%3D) (Mar 2017 - Aug 2017) (Udacity - Siraj Raval, Mat Leonard, Brok Bucholtz + guest lessions by: Ian Goodfellow, Andrew Trask)
+	+ [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/L937Q3QSASJH) (Oct 2017) (Coursera - deeplearning.ai - Andrew Ng)
 
 ## Sources
 There is a list of sources that I have used (and found helpful in some way) or keep using in order to produce my repo content.
