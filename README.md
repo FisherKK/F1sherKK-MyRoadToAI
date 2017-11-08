@@ -141,6 +141,16 @@ Usually I prefer online sources for studying, but I believe in the power of book
 | [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) | Andrew Trask | Nov 2017 | - |
 | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | Nov 2017 | - |
 
+### Machine Learning related:
+| Book | Author | Started | Finished |
+| :---: | :---: | :---: | :---: |
+| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | Nov 2017 | - |
+
+### Deep Learning related:
+| Book | Author | Started | Finished |
+| :---: | :---: | :---: | :---: |
+| [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) | Andrew Trask | Nov 2017 | - |
+
 ## Courses & Certificates
 When I was younger I played a lot of computer games.  I still tend to play today a little as a form of relax and to spend time with friends that live far from me. One thing that I have very enjoyed about gaming was gathering trophies. You made an effort to complete list of challenges or get a great score and then looked at list of your achievements with satisfaction. My current self have inherited this habit and as I study on daily basis I like to gather proves that I have done something - to make it more like a game where each topic is a boss that you have to clear on hard mode. Of course what's in your head is most important but if it helps to motivate you, then why not?
 
