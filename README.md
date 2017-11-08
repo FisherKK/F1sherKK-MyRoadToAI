@@ -138,7 +138,7 @@ Usually I prefer online sources for studying, but I believe in the power of book
 | :---: | :---: | :---: | :---: |
 | [Dive Into Python 3](http://www.diveintopython3.net/) | Mark Pilgrim | Aug 2017 | Sep 2017 |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Al Sweigart | Sept 2017 | Oct 2017 |
-| [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) | Andrew Trask | Sept 2017 | - |
+| [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) | Andrew Trask | Nov 2017 | - |
 | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | Nov 2017 | - |
 
 ## Courses & Certificates
@@ -147,8 +147,8 @@ When I was younger I played a lot of computer games.  I still tend to play today
 - Programming languages:
 	+ [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/N5Y4ME8737YL?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
  	+ [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/H7G3GHE2WA4D?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
-  + [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/XU7RL8F57XZV?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
-  + [Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/JZCL9TVJEMAX?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
+	+ [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/XU7RL8F57XZV?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
+	+ [Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/JZCL9TVJEMAX?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWd%2Fg8tA6QaSkzOZDrro4%2BA%3D%3D) (Feb 2017) (Coursera - University of Michigan - Charles Severance)
 
 - Algorithms:
 	+ [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/PGA7EZJAJD6P) (Sep 2017) (Coursera - University of Stanford)
