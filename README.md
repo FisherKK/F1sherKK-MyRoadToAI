@@ -138,8 +138,6 @@ Usually I prefer online sources for studying, but I believe in the power of book
 | :---: | :---: | :---: | :---: |
 | [Dive Into Python 3](http://www.diveintopython3.net/) | Mark Pilgrim | Aug 2017 | Sep 2017 |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Al Sweigart | Sept 2017 | Oct 2017 |
-| [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) | Andrew Trask | Nov 2017 | - |
-| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | Nov 2017 | - |
 
 ### Machine Learning related:
 | Book | Author | Started | Finished |
