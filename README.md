@@ -40,7 +40,7 @@ In this section I want to show off my knowledge about various AI related algorit
 | | Approximating Polynomial of degree 2 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree2_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
 | | Approximating Polynomial of degree 3 | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/raw_solution/PolynomialRegression_Degree3_Raw.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
 | | Approximating Polynomial of degree 3 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree3_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
-| Logistic Regression | Data Analysis, Kaggle Competition | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LogisticRegression/raw_solution/LogisticRegression_Raw.ipynb) | - | 19.10.2017 | 24.10.2017 |
+| Logistic Regression | Data Analysis, Kaggle Competition | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LogisticRegression/raw_solution/LogisticRegression_Raw.ipynb) | Titanic Disaster | 19.10.2017 | 24.10.2017 |
 | KNN | Manhattan, Euclidean Similarity | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 24.09.2017 |
 | | Euclidean Similarity | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
@@ -137,7 +137,9 @@ Usually I prefer online sources for studying, but I believe in the power of book
 | Book | Author | Started | Finished |
 | :---: | :---: | :---: | :---: |
 | [Dive Into Python 3](http://www.diveintopython3.net/) | Mark Pilgrim | Aug 2017 | Sep 2017 |
-| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Al Sweigart | Sept 2017 | - |
+| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Al Sweigart | Sept 2017 | Oct 2017 |
+| [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) | Andrew Trask | Sept 2017 | - |
+| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | Nov 2017 | - |
 
 ## Courses & Certificates
 When I was younger I played a lot of computer games.  I still tend to play today a little as a form of relax and to spend time with friends that live far from me. One thing that I have very enjoyed about gaming was gathering trophies. You made an effort to complete list of challenges or get a great score and then looked at list of your achievements with satisfaction. My current self have inherited this habit and as I study on daily basis I like to gather proves that I have done something - to make it more like a game where each topic is a boss that you have to clear on hard mode. Of course what's in your head is most important but if it helps to motivate you, then why not?
