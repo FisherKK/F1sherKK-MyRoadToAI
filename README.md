@@ -25,6 +25,8 @@ This is a repository that I have created to track my progress in AI/Data Science
 | Presentation  | Where | Date | Slides |
 | :---: | :---: | :---: | :---: |
 | Welcome to MOOC era! - My experiences with Deep Learning Foundations Nanodegree at Udacity | Speaker - GDG & Women Techmakers - Machine Learning #3 | 18.10.2017 | [Link](https://speakerdeck.com/f1sherkk/welcome-to-mooc-era-my-dlfnd-experiences-at-udacity) |
+| Soft introduction into MSE based Linear Regression (part 2 of 'What this Machine Learning is all about?' talk)  | Azimo Lunch&Learn | 16.11.2017 | [Link](https://speakerdeck.com/f1sherkk/soft-introduction-to-mse-based-linear-regression) |
+
 
 ## AI Implementations
 In this section I want to show off my knowledge about various AI related algorithms, frameworks, programming languages, libraries and more. Priority is to show how the algorithm works - not to solve complex and ambitious problems.
