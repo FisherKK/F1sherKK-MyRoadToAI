@@ -176,19 +176,36 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ https://www.coursera.org/learn/machine-learning
 	+ https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
 	+ https://www.coursera.org/specializations/deep-learning
-	+ https://www.coursera.org/specializations/algorithms (part 1/4)
-	+ https://www.coursera.org/learn/python (part 4/5)
+	+ https://www.coursera.org/specializations/algorithms
+	+ https://www.coursera.org/learn/python
+	+ http://www.dataworkshop.eu/ (PL only)
 
-- Online Lectures and YouTube Channels
+- Online Lectures
 	+ [CS231n (Winter 2016 with Andrej Karpathy)](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 	+ [CS231n (Spring 2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 	+ [Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-	+ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-	+ [Learn Tensorflow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
-	+ [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 	+ [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-	+ [Alena Kruchkova - Machine Learning Book Club](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos)
 
+- YouTube Channels
+	+ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+	+ [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+	+ [Alena Kruchkova - Machine Learning Book Club](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos)
+	
+- Videos Worth Watching
+	+ [Learn Tensorflow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+	+ [Anatomy of Matplotlib](https://www.youtube.com/watch?v=A2adyFMsut0)
+	+ [Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4)
+        + [Visualising and Understanding Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
+        + [Deploying Machine Learning using sklearn pipelines](https://www.youtube.com/watch?v=URdnFlZnlaE)
+	
+- Podcasts
+	+ http://biznesmysli.pl/
+	+ https://dataskeptic.com/podcast
+
+- Online Books
+	+ [Neural Networks - Deep Learning online book](http://neuralnetworksanddeeplearning.com/)
+        + [Part of book online - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
+	
 - Blogs
 	+ http://kldavenport.com/
 	+ https://medium.com/@karpathy
@@ -196,9 +213,9 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ https://colah.github.io/
 	+ https://distill.pub/
 
-- Podcasts
-	+ http://biznesmysli.pl/
-	+ https://dataskeptic.com/podcast
+- Articles
+	+ Neural Networks - RNN
+		+ [Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 - Cheatsheets
 	+ https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
@@ -207,10 +224,24 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ https://github.com/terryum/awesome-deep-learning-papers
 	+ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 	+ https://github.com/fchollet/deep-learning-with-python-notebooks
-	+ https://github.com/ZuzooVn/machine-learning-for-software-engineers
+	+ https://github.com/ZuzooVn/machine-learning-for-softwaxre-engineers
 	+ https://github.com/eriklindernoren/ML-From-Scratch
 	+ https://github.com/junyanz/CycleGAN
 	+ https://github.com/llSourcell
+	
+- Frameworks
+	+ [Comparing Top Deep Learning Frameworks: Deeplearning4j, PyTorch, TensorFlow, Caffe, Keras, MxNet, Gluon & CNTK](https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch)
+	+ http://scikit-learn.org/stable/
+	+ https://www.tensorflow.org/
+	+ https://keras.io/
+	+ http://pytorch.org/
+	+ https://docs.microsoft.com/en-us/cognitive-toolkit/
+	+ http://caffe.berkeleyvision.org/
+
+- Cloud Computing
+	+ [Google Colaboratory](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb)
+	+ [Amazon Web Service](https://aws.amazon.com/)
+	+ [FloydHub](https://www.floydhub.com/)
 
 - Other
 	+ https://www.kaggle.com/
