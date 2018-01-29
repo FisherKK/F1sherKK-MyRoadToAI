@@ -9,12 +9,18 @@ This is a repository that I have created to track my progress in AI/Data Science
 - [About](#about)
 - [Table of Contents](#table-of-contents)
 - [AI Related Presentations](#ai-related-presentations)
-- [AI - Mini Projects](#ai-mini-projects)
-	+ [Machine Learning](#machine-learning)
-	+ [Deep Learning](#deep-learning)
-	+ [Tutorials](#tutorials)
+- [Mini AI Projects](#mini-ai-projects)
+	+ [Problem Solving](#problem-solving)
+	+ [Visualisation](#visualisation)
+- [AI Programming Showcase](#ai-programming-showcase)
+	+ [Raw Python](#raw-python)
+	+ [sklearn](#sklearn)
+	+ [TensorFlow](#tensorflow)
+	+ [Tflearn](#tflearn)
+	+ [Keras](#keras)
 - [Algorithm Implementations](#algorithm-implementations)
 	+ [Divide & Conquer](#divide--conquer)
+- [Articles](#articles)
 - [Books](#books)
 - [Courses & Certificates](#courses--certificates)
 - [Sources]($sources)
@@ -24,28 +30,28 @@ This is a repository that I have created to track my progress in AI/Data Science
 | Presentation  | Where | Date | Slides |
 | :---: | :---: | :---: | :---: |
 | Welcome to MOOC era! - My experiences with Deep Learning Foundations Nanodegree at Udacity | Speaker - GDG & Women Techmakers - Machine Learning #3 | 18.10.2017 | [Link](https://speakerdeck.com/f1sherkk/welcome-to-mooc-era-my-dlfnd-experiences-at-udacity) |
-| Soft introduction into MSE based Linear Regression (part 2 of 'What this Machine Learning is all about?' talk)  | Azimo Lunch&Learn | 16.11.2017 | [Link](https://speakerdeck.com/f1sherkk/soft-introduction-to-mse-based-linear-regression) |
+| Soft introduction into MSE based Linear Regression (part 2 of 'What this Machine Learning is all about?' talk)  | Azimo Lunch & Learn | 16.11.2017 | [Link](https://speakerdeck.com/f1sherkk/soft-introduction-to-mse-based-linear-regression) |
 
-### AI - Mini Projects
-In this section I will focus about diging up relationship and visualising data. I will try to use Machine learning and visualisation methods for problem solving.
+## Mini AI Projects
+In this section I will focus about digging up relationship and visualising data. I will try to use Machine learning and visualisation methods for problem solving.
 
-## Problem Solving
+### Problem Solving
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Prediction of Bike Shop Clients Number | Used MLP with 1-layer, mini-batch | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Regression/Bike-Sharing-Dataset/raw_solution/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
-| Tytanic Disaster survivor prediction | Kaggle - Used Logistic Regression with ~80% accuracy | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LogisticRegression/raw_solution/LogisticRegression_Raw.ipynb) | Titanic Disaster | 19.10.2017 | 24.10.2017 |
+| Kaggle - Titanic Disaster survivor prediction | Used Logistic Regression with ~80% accuracy | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LogisticRegression/raw_solution/LogisticRegression_Raw.ipynb) | Titanic Disaster | 19.10.2017 | 24.10.2017 |
 
-## Visualisation
+### Visualisation
 | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Picking best computer game to try| Used K-Means Clusters for visualising top positions | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/K-Means/raw_solution/K-Means_VideoGames_Raw.ipynb) | Video Game Sales from Kaggle | 01.10.2017 | 05.10.2017 |
+| Picking best computer game to try| Used K-Means Clusters for visualising top positions | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/K-Means/raw_solution/K-Means_VideoGames_Raw.ipynb) | Kaggle - Video Game Sales | 01.10.2017 | 05.10.2017 |
 
-### AI - Programming Showcase
+## AI Programming Showcase
 In this section I want to show off my knowledge about various AI related algorithms, frameworks, programming languages, libraries and more. Priority is to show how the algorithm works - not to solve complex and ambitious problems. Usually on classical or generated datasets.
 
-## Raw Programming (no framework)
+### Raw Python
 
-Machine Learning
+#### Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linear Regression | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/raw_solution/LinearRegression_Raw.ipynb) | Generated Numbers | 18.04.2017 | 15.09.2017 |
@@ -56,12 +62,12 @@ Machine Learning
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
 | Naive Bayes | Gaussian Distribution | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/NaiveBayes/raw_solution/NaiveBayes_PimaIndiansDiabetes_raw.ipynb) | Pima Indian Diabetes | 02.11.2017 | 03.11.2017 |
 
-Deep Learning
-| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Digit Classification | 2-layers, mini-batch | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/raw_solution/MultilayerPerceptron-MNIST-Raw.ipynb) | MNIST | 19.06.2017 | 14.08.2017 |
+#### Deep Learning
+| Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| MLP | Digit Classification | 2-layers, mini-batch | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/raw_solution/MultilayerPerceptron-MNIST-Raw.ipynb) | MNIST | 19.06.2017 | 14.08.2017 |
 
-## sklearn
+### sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linear Regression | - | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/sklearn_solution/LinearRegression_Sklearn.ipynb) | Generated Numbers | 18.04.2017 | 15.09.2017 |
@@ -69,14 +75,14 @@ Deep Learning
 | Polynomial Regression | Approximating Polynomial of degree 3 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree3_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
 | KNN | Euclidean Similarity | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
 
-## TensorFlow
+### TensorFlow
 
-Machine Learning
+#### Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linear Regression | - | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/tensorflow_solution/LinearRegression_Tensorflow.ipynb) | Generated Numbers | 23.09.2017 | 23.09.2017 |
 
-Deep Learning
+#### Deep Learning
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | MLP | Digit Classification | 2-layers, mini-batch, dropout-regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tensorflow_solution/MultilayerPerceptron-MNIST-Tensorflow.ipynb) | MNIST | 29.06.2017 | 18.07.2017 |
@@ -90,17 +96,17 @@ Deep Learning
 | RNN | "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/RNN/3ndProject-GeneratingScriptTV/dlnd_tv_script_generation.ipynb) | "The Simpsons" script | 06.06.2017 | 14.07.2017 |
 | DCGAN | Generating Human Face Miniatures | DCGAN | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/GAN/ImageGeneration/CELEB-Dataset/DC-GAN-FaceGeneration-Tensorflow.ipynb) | CelebA | 11.09.2017 | 13.09.2017 |
 
-## Tflearn
+### Tflearn
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | MLP | Digit Classification | 2-layers, mini-batch | [Python (tflearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/tflearn_solution/MultilayerPerceptron-MNIST-tflearn.ipynb) | MNIST | 21.06.2017 | 21.06.2017 |
 
-## Keras
+### Keras
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
 
-### Articles
+## Articles
 | Title | Link | Jupyter | Publsh Date | Update Date |
 | :---: | :---: | :---: | :---: | :---: |
 
@@ -172,14 +178,14 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 	+ [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 	+ [Alena Kruchkova - Machine Learning Book Club](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos)
-	
+
 - Videos Worth Watching
 	+ [Learn Tensorflow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 	+ [Anatomy of Matplotlib](https://www.youtube.com/watch?v=A2adyFMsut0)
 	+ [Sequence to Sequence Deep Learning (Quoc Le, Google)](https://www.youtube.com/watch?v=G5RY_SUJih4)
         + [Visualising and Understanding Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
         + [Deploying Machine Learning using sklearn pipelines](https://www.youtube.com/watch?v=URdnFlZnlaE)
-	
+
 - Podcasts
 	+ http://biznesmysli.pl/
 	+ https://dataskeptic.com/podcast
@@ -187,7 +193,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 - Online Books
 	+ [Neural Networks - Deep Learning online book](http://neuralnetworksanddeeplearning.com/)
         + [Part of book online - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
-	
+
 - Blogs
 	+ http://kldavenport.com/
 	+ https://medium.com/@karpathy
@@ -201,7 +207,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 		+ [Know Difference Between Your Data and Metrics](https://hbr.org/2013/03/know-the-difference-between-yo)
 		+ [Data Security for Data Scientists](https://medium.com/@andrew.therriault/data-security-for-data-scientists-2f1fcd8c261b)
 		+ [Limitations of the Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
-		
+
 	+ Neural Networks - General
 		+ [Quick Introduction into Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 		+ [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
@@ -210,18 +216,18 @@ There is a list of sources that I have used (and found helpful in some way) or k
 		+ [Tensorflow Playground](http://playground.tensorflow.org/)
 		+ [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 		+ [Softmax function and it's derivative](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
-	
+
 	+ Neural Networks - Advanced Parameter Optimization
 		+ [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 		+ [Bayesian Optimisation](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/)
 		+ [Optimizing the hyperparameter of which hyperparameter optimizer to use](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/)
 		+ [Hyperas - optimization of Neural Network Hyperparameters implemented in Keras with usage of hyperopt lib](http://maxpumperla.github.io/hyperas/)
-	
+
 	+ Neural Networks - CNN
 		+ [Demystifying Deep Convolutional Neural Networks](http://scs.ryerson.ca/~aharley/neural-networks/)
 		+ [How do Convolutional Neural Networks work?](https://brohrer.github.io/how_convolutional_neural_networks_work.html)
 		+ [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
-	
+
 	+ Neural Networks - RNN - General
 		+ [Anyone Can Code LSTM](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 		+ [A Beginner's Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
@@ -232,7 +238,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 		+ [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
 		+ [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 		+ [Time Series Prediction using Recurrent Neural Networks LSTMs](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
-		
+
 	+ Neural Networks - RNN - NLP
 		+ [How does Neural Machine Translation work?](http://blog.systransoft.com/how-does-neural-machine-translation-work/)
 		+ [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
@@ -249,14 +255,14 @@ There is a list of sources that I have used (and found helpful in some way) or k
 		+ [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 		+ [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 		+ [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-		
+
 	+ Neural Networks - Autoencoders
 		+ [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
 		+ [What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 		+ [Categorical Variational Autoencoders using Gumbel-Softmax](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html)
 		+ [Introducing Variational Autoencoders (in Prose and Code)](http://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html)
 		+ [Under the Hood of the Variational Autoencoder (in Prose and Code)](http://blog.fastforwardlabs.com/2016/08/22/under-the-hood-of-the-variational-autoencoder-in.html)
-	
+
 	+ Neural Networks - GAN
 		+ [Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode](https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39)
 		+ [A (Very) Gentle Introduction to Generative Adversarial Networks (a.k.a GANs)](https://www.slideshare.net/ThomasDaSilvaPaula/a-very-gentle-introduction-to-generative-adversarial-networks-aka-gans-71614428)
@@ -265,20 +271,20 @@ There is a list of sources that I have used (and found helpful in some way) or k
 		+ [Generative Adversarial Nets in TensorFlow](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 [Generative Models](https://blog.openai.com/generative-models/)
 		+ [Neural Information Processing Systems Conference 2016 - Generative Adversarial Networks - by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
-		
+
 	+ Neural Networks - Transfer Learning
 		+ [CS231n Transfer Learning](http://cs231n.github.io/transfer-learning/)
-		
+
 	+ sklearn
 		+ [sklearn Pipeline](https://signal-to-noise.xyz/post/sklearn-pipeline/)
 		+ [New Low-Overhead Persistence in joblib for Big Data](http://gael-varoquaux.info/programming/new_low-overhead_persistence_in_joblib_for_big_data.html)
-		
+
 	+ Gradient Boosting
 		+ [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 	+ SVM
 		+ [Understanding Support Vector Machine - Example Code](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
-	
+
 	+ Serving Models in production
 		+ [Serving Models in Production with TensorFlow Serving](https://www.youtube.com/watch?v=q_IkJcPyNl0)
 		+ [How Zendesk Serves TensorFlow Models in Production](https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b)
@@ -286,7 +292,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 		+ [The Flask - Mega Tutorial Part 1 - Hello World](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 		+ [Machine Learning in Production](https://medium.com/contentsquare-engineering-blog/machine-learning-in-production-c53b43283ab1)
 		+ [Deploying your Keras model](https://medium.com/@burgalon/deploying-your-keras-model-35648f9dc5fb)
-	
+
 	+ Loss Function
 		+ [Hinge Loss](https://en.wikipedia.org/wiki/Hinge_loss)
 		+ [Weighted Approximately Ranked Pairwise Loss Warp](http://www.hongliangjie.com/2012/08/24/weighted-approximately-ranked-pairwise-loss-warp/)
@@ -302,7 +308,7 @@ There is a list of sources that I have used (and found helpful in some way) or k
 	+ https://github.com/eriklindernoren/ML-From-Scratch
 	+ https://github.com/junyanz/CycleGAN
 	+ https://github.com/llSourcell
-	
+
 - Frameworks
 	+ [Comparing Top Deep Learning Frameworks: Deeplearning4j, PyTorch, TensorFlow, Caffe, Keras, MxNet, Gluon & CNTK](https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch)
 	+ http://scikit-learn.org/stable/
