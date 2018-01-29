@@ -60,7 +60,7 @@ In this section I want to show off my knowledge about various AI related algorit
 | KNN | Manhattan, Euclidean Similarity | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 24.09.2017 |
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
 | Naive Bayes | Gaussian Distribution | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/NaiveBayes/raw_solution/NaiveBayes_PimaIndiansDiabetes_raw.ipynb) | Pima Indian Diabetes | 02.11.2017 | 03.11.2017 |
-| K-Means Clusters | - | Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/K-Means/raw_solution/K-Means_VideoGames_Raw.ipynb) | Kaggle - Video Game Sales | 01.10.2017 | 05.10.2017 |
+| K-Means Clusters | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/K-Means/raw_solution/K-Means_VideoGames_Raw.ipynb) | Kaggle - Video Game Sales | 01.10.2017 | 05.10.2017 |
 
 #### Deep Learning
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
