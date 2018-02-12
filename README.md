@@ -109,7 +109,7 @@ In this section I want to show off my knowledge about various AI related algorit
 ## Articles
 | Title | Link | Publsh Date | Update Date |
 | :---: | :---: | :---: | :---: |
-| Coding Deep Learning for Beginners — Start! | [Article #0](https://gitlab.azimo.com/bi-growth-tech/delivery-times-intelligence) | 12.02.2018 | 12.02.2018 |
+| Coding Deep Learning for Beginners — Start! | [Article #0](https://medium.com/@krzyk.kamil/coding-deep-learning-for-beginners-start-a84da8cb5044) | 12.02.2018 | 12.02.2018 |
 
 ## Algorithm Implementations
 Note: Suspended until April 2018.
