@@ -107,8 +107,9 @@ In this section I want to show off my knowledge about various AI related algorit
 | MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
 
 ## Articles
-| Title | Link | Jupyter | Publsh Date | Update Date |
-| :---: | :---: | :---: | :---: | :---: |
+| Title | Link | Publsh Date | Update Date |
+| :---: | :---: | :---: | :---: |
+| Coding Deep Learning for Beginners — Start! | [Article #0](https://gitlab.azimo.com/bi-growth-tech/delivery-times-intelligence) | 12.02.2018 | 12.02.2018 |
 
 ## Algorithm Implementations
 Note: Suspended until April 2018.
