@@ -99,29 +99,17 @@ In this section I want to show off my knowledge about various AI related algorit
 ### Keras
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
-
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/MultilayerPerceptron/Classification/MNIST-Dataset/keras_solution/MultilayerPerceptron-MNIST-Keras.ipynb) | MNIST | 18.07.2017 | 18.07.2017 |
+| MLP | Digit Classification | 2-layers, mini-batch, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_MNIST/MLP%20MNIST%20-%20Keras%20Solution.ipynb) | MNIST | 10.03.2018 | 10.03.2018 |
+| MLP | Clothes Images Classification | 2-layers, mini-batch, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_FashionMnist/MLP%20Fashion%20MNIST%20-%20Keras%20Solution.ipynb) | Fashion MNIST | 15.04.2018 | 15.04.2018 |
+| MLP | Letters Classification | 2-layers, mini-batch, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_EMNIST/MLP%20EMNIST%20-%20Keras%20Solution.ipynb) | EMNIST | 24.04.2018 | 24.04.2018 |
+| MLP | Review Sentiment Classification | Bag of Words | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_ImdbReviewSentimentPrediction/MLP%20IMDB%20Sentiment%20Analysis%20-%20Bag%20of%20Words%20-%20%20Keras%20Solution.ipynb) | IMDB Reviews | 11.03.2018 | 11.03.2018 |
+| MLP | Boston House Prices Regression | 1 layer, mini-batch | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_BostonHousePricesPrediction/MLP%20Boston%20House%20Prices%20-%20Keras%20Solution.ipynb) | Boston House Prices | 19.04.2018 | 19.04.2018 |
+| CNN | Ten Color Image Classes Classification | VGG15 | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/CNN_CIFAR10/CNN%20CIFAR10%20-%20Keras%20Solution.ipynb) | CIFAR10 | 27.03.2018 | 27.03.2018 |
+| CNN | Letter Classification | 32x32x64x64, 512, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/CNN_EMNIST/CNN%20EMNIST%20-%20Keras%20Solution.ipynb) | EMNIST | 25.03.2018 | 23.03.2018 |
+| CNN | Clothes Images Classification | 16x16x32x32, 256x128, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/CNN_FashionMNIST/CNN%20Fashion%20MNIST%20-%20Keras%20Solution.ipynb) | Fashion MNIST | 11.03.2018 | 11.03.2018 |
+| CNN | Digit Classification | 16x32x64, 128, BN| [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/CNN_MNIST/CNN%20MNIST%20-%20Keras%20Solution.ipynb) | MNIST | 24.03.2018 | 24.03.2018 |
+| RNN | Next Month Prediction | LSTM(128) | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/RNN_MonthOrderPrediction/RNN%20Month%20Order%20-%20Keras%20Solution.ipynb) | Month Order | 15.04.2018 | 15.04.2018 |
+| RNN | Shakespeare Sonnet's Generation | LSTM(700), LSTM(700) | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/RNN_ShakespeareGeneration/RNN%20Text%20Generation%20%5BShakespeare%5D%20-%20Keras%20Solution.ipynb) | Shakespeare's sonnets | 17.04.2018 | 17.04.2018 |
 
 ## Articles
 Note: Delayed due to 1,5 month long preparations for organising ML/DL workshops.
