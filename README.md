@@ -20,7 +20,7 @@ This is a repository that I have created to track my progress in AI/Data Science
 	+ [Keras](#keras)
 - [Articles](#articles)
 - [Courses & Certificates](#courses--certificates)
-- [Sources]($sources)
+- [Sources](#sources)
 - [Contact](#contact)
 
 ## AI Related Presentations
