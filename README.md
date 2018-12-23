@@ -16,7 +16,6 @@ This is a repository that I have created to track my progress in AI/Data Science
 	+ [Raw Python](#raw-python)
 	+ [sklearn](#sklearn)
 	+ [TensorFlow](#tensorflow)
-	+ [Tflearn](#tflearn)
 	+ [Keras](#keras)
 - [Articles](#articles)
 - [Courses & Certificates](#courses--certificates)
