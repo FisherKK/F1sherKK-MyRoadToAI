@@ -209,8 +209,8 @@ Results for image 'flower_data/test/43/image_02329.jpg':
 Results can me more nicely visualized if needed (this is not included in script):
 - image_02329.jpg
 
-![example1](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Projects/102-Species-Flower-Image-Classifier/img/example1.png)
+![example1](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Projects/102-Species-Flower-Image-Classifier/img/example1.png | width=350)
 
 - image_02550.jpg
 
-![example2](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Projects/102-Species-Flower-Image-Classifier/img/example2.png)
+![example2](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/Projects/102-Species-Flower-Image-Classifier/img/example2.png | width=350)
